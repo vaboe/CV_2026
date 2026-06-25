@@ -9,7 +9,7 @@
 
 ## 目录说明
 
-- `dataset/`：实验二所需数据集
+- `dataset/`：实验二所需数据集（文件过大因此未放入，运行时需创建该文件夹并将数据放入）
 - `src/`：核心 Python 源码
 - `experiment2_full_pipeline.ipynb`：完整运行版 Notebook，可从数据检查、训练、评估一直运行到结果生成
 - `outputs/`：实验输出结果目录
